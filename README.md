@@ -6,7 +6,7 @@
 
 # Kids Vocabulary Builder 🦄🌟
 
-Empower young minds with a fun and engaging vocabulary builder designed just for kids! This kid-friendly app helps children learn new words with their meanings, origins, examples, synonyms, and fun activities. Safe, interactive, and educational, it ensures a wholesome learning experience while promoting curiosity and language development
+Empower young minds with a fun and engaging vocabulary builder designed just for kids! This kid-friendly app helps children learn new words with their meanings, origins, examples, synonyms, and fun activities. Safe, interactive, and educational, it ensures a wholesome learning experience while promoting curiosity and language development.
 
 ---
 
