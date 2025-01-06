@@ -86,17 +86,3 @@ npm install
 npm start
 
 - The application will open automatically in your default browser at:http://localhost:3000
-
-**Directory Structure**
-kid-vocabulary-builder/
-├── client/ # Frontend (React.js)
-│ ├── public/ # Static assets
-│ ├── src/ # React components and styles
-│ └── package.json # Frontend dependencies
-├── server/ # Backend (Node.js + Express.js)
-│ ├── index.js # Main server file
-│ ├── .env # Environment variables
-│ └── package.json # Backend dependencies
-└── README.md # Project documentation
-
-> > > > > > > 67e79d4 (Initial commit)
