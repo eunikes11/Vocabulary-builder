@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Vocabulary-builder
 
 # Empower young minds with a fun and engaging vocabulary builder designed just for kids! This kid-friendly app helps children learn new words with their meanings, origins, examples, synonyms, and fun activities. Safe, interactive, and educational, it ensures a wholesome learning experience while promoting curiosity and language development.
@@ -68,21 +66,21 @@ Empower young minds with a fun and engaging vocabulary builder designed just for
 
 - Open a terminal in your desired folder and run:
 
-  git clone https://github.com/your-username/kid-vocabulary-builder.git
+  git clone https://github.com/your-username/kid-vocabulary-builder.git ,
   cd kid-vocabulary-builder
 
 ### **3. Setting Up the Backend (Node.js)**
 
-cd server
+cd server,
 npm install
 
-- add OPENAI_API_KEY=your_openai_api_key to .env file
+- add OPENAI_API_KEY=your_openai_api_key to .env file,
   npm start
 
 ### **4. Setting Up the Frontend (React.js)**
 
-cd ../client
-npm install
-npm start
+cd ../client,
+npm install,
+npm start,
 
-- The application will open automatically in your default browser at:http://localhost:3000
+- The application will open automatically in your default browser at: http://localhost:3000
